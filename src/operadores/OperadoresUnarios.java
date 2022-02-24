@@ -32,5 +32,7 @@ public class OperadoresUnarios {
         
         System.out.println("g = " + g);
         System.out.println("h = " + h);
+        
+        //Decremento sigue la misma logica que el incremento
     }
 }
